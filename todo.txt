@@ -1,4 +1,2 @@
-make lawyer data accessible to all the pages using provider package
-make module to send request to the lawyer 
-make module so that the lawyer can accept or reject the request 
-make a callback funciton to showcase page name on the appbar
+design case Detail Page 
+add history page
