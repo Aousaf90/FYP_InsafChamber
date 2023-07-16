@@ -1,16 +1,14 @@
 # insafchamber
 
-A new Flutter project.
+Final Year Project
 
 ## Getting Started
+Final Year Project: 
+Developer : Aousaf Sulaman
+Institute : NFC IET Multan
+Supervised By : Sir Ahtasham Noor
 
-This project is a starting point for a Flutter application.
+Project Description: Insaf Chamber(Law Firm Management System) is a management system that help client/lawyer manage
+there meeting, communicatioin, files and cases 
+providing secure connection with real time data access
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
